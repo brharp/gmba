@@ -1,1 +1,4 @@
-# Guelph Minor Baseball Association
+
+- [About](about)
+- [Register](registration)
+- [Contact](contact)
