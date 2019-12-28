@@ -1,54 +1,79 @@
 # Board of Directors
 
-| Role                | Director              | Email             |
-|---------------------|-----------------------|-------------------|
-| President           | Jeff Hoffman          | president@gmba.ca |
-| VP Operations       | Cory Hanley           |                   |
-| Grievance           | Cory Hanley           |                   |
-| Technical           | Rob Robinson          |                   |
-| Tournaments         | Sean Staniforth       |                   |
-| Risk Management     | Ryan Herron           |                   |
-| Umpire-in-Chief     | Adam Fanjoy           |                   |
-| Umpire Coordinator  | Fiona Caron*          |
-| EBLO                | Sean Staniforth       |
-| Eliminations        | Adam Fanjoy           |
-| Diamond Coordinator | Libby Mallott         |
-| VP Rep              | Stefanie Mocuik       |
-| Registrar           | Adam Fanjoy           |
-| ICBA Rep            | Iain Durk             |
-| VP Finance          | Vicki Marshall        |
-| Treasurer           | Donato DiBucchianico* |
-| Equipment and Uniforms (House League) | Kevin Carron |
-| Equipment and Uniforms (Rep)          | Vicki Marshall |
-| Insurance           | Vicki Marshall  | |
-| Sponsorship         | Jessica Mackinnon | |
+**Jeff Hoffman**  
+President
+
+**Cory Hanley**  
+VP Operations  
+Grievance
+
+**Rob Robinson**  
+Technical
+
+**Sean Staniforth**  
+Tournaments  
+EBLO
+
+**Ryan Herron**  
+Risk Management
+
+**Adam Fanjoy**  
+Umpire-in-Chief  
+Eliminations  
+Registrar
+Capital Projects
+
+**Fiona Caron***  
+Umpire Coordinator
+
+**Libby Mallott**  
+Diamon Coordinator
+
+**Stefanie Mocuik**  
+VP Rep
+
+**Iain Durk**  
+ICBA Rep
+
+**Vicki Marshall**  
+VP Finance  
+Equipment and Uniforms - Rep  
+Insurance
+
+**Donato DiBucchianico***  
+Treasurer
+
+**Kevin Carron**  
+Equipment and Uniforms - House League
+
+**Jessica MacKinnon**  
+Sponsorship
+
+**Koko Gillis**  
+Capital Projects
+Select
+
+**Jim Price**  
+VP House League
+
+**Heather Macpherson**  
+House League Coordinator
+
+**Richard Elmes**  
+House League Coordinator
+
+**Dave Shapka**  
+Initiation Programs
+
+**Heather Sutcliffe**  
+Secretary and Communications  
+Social Media  
+Membership Communications  
+Office Management  
+
+**Brent Harp***  
+Webmaster
 
 
-## Executive
-
-| Name              | Position        | Email             |
-|-------------------|-----------------|-------------------|
-| Jeff Hoffman      | President       | president@gmba.ca |
-| Cory Hanley       | VP Operations   |                   |
-| Stefanie Mocuik   | VP Rep          | rep@gmba.ca       |
-| Vicki Marshall    | VP Finance      |                   |
-| Jim Price         | VP House League |                   |
-| Heather Sutcliffe | Secretary       |                   |
-
-## Board Members
-
-| Name              | Role |
-| Cory Hanley       | Grievance |
-
-
-| Position        | Name          | Email              |
-|-----------------|---------------|--------------------|
-| VP Operations   | Cory Hanley   |                    |
-| Grievance       | Cory Hanley   |                    |
-|
-
-| Name            | Position       | Email              |
-| Stefanie Mocuik | VP Rep         | rep@gmba.ca        |
-| Cory Hanley     | VP Operations, Grievance  |                    |
-|                 |       |                    |
+<em>* Non-Director Area Lead</em>
 

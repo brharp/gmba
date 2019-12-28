@@ -5,18 +5,27 @@
 5C - 100 Crimea St Guelph, Ontario N1H 2Y6\
 Phone: 519-836-8771
 
-## Contacts
+## Contact Information
 
-| Nature of Inquiry | Address              |
-|-------------------|----------------------|
-| General           | office@gmba.ca       |
-| Registration      | registration@gmba.ca |
-| House League      | houseleague@gmba.ca  |
-| Rep League        | rep@gmba.ca          |
-| Select            | select@gmba.ca       |
-| Website           | webmaster@gmba.ca    |
+**General Inquiries**  
+[office@gmba.ca](mailto:office@gmba.ca)
 
-## Rep Coaches
+**Registration**  
+[registration@gmba.ca](mailto:registration@gmba.ca)
+
+**House League**  
+[houseleague@gmba.ca](mailto:houseleague@gmba.ca)
+
+**Rep League**  
+[rep@gmba.ca](mailto:rep@gmba.ca)
+
+**Select**  
+[select@gmba.ca](mailto:select@gmba.ca)
+
+**Website**  
+[webmaster@gmba.ca](mailto:webmaster@gmba.ca)
+
+## 2020 Rep Coaches
 
 | Team | Name             | Phone        | Email                       |
 |------|------------------|--------------|-----------------------------|
