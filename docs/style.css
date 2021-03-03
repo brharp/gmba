@@ -1,0 +1,17 @@
+body {
+	font-size: 14pt;
+	font-family: sans-serif;
+}
+body > * {
+	width: 640px;
+	margin: 0 auto;
+	background: #fefefe;
+	color: #333;
+}
+h1 {
+	margin-bottom: .5em;
+}
+p {
+	margin-bottom: 1em;
+	line-height: 1.5;
+}
