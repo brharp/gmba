@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 # Board of Directors
 
 **Jeff Hoffman**  
